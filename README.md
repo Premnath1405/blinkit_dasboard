@@ -9,13 +9,13 @@ This dashboard provides a comprehensive view of key metrics for Blinkit, India's
 
 # Charts and Visualizations
 
-Total Sales by Fat Content: Show the impact of fat content (e.g., low-fat vs. regular) on total sales, including related KPIs.
-Total Sales by Item Type: Display top-performing item types and related KPIs.
-Total Sales by Outlet: Compare total sales across outlets, with a breakdown by fat content.
-Total Sales by Outlet Establishment: Evaluate how the age or type of outlet affects total sales.
-Sales by Outlet Size: Analyze the relationship between outlet size (small, medium, large) and total sales.
-Sales by Outlet Location: Assess sales distribution across different geographic locations.
-All Metrics by Outlet Type: Provide a summary view of key metrics by outlet type (e.g., grocery stores, supermarkets).
+-Total Sales by Fat Content: Show the impact of fat content (e.g., low-fat vs. regular) on total sales, including related KPIs.
+-Total Sales by Item Type: Display top-performing item types and related KPIs.
+-Total Sales by Outlet: Compare total sales across outlets, with a breakdown by fat content.
+-Total Sales by Outlet Establishment: Evaluate how the age or type of outlet affects total sales.
+-Sales by Outlet Size: Analyze the relationship between outlet size (small, medium, large) and total sales.
+-Sales by Outlet Location: Assess sales distribution across different geographic locations.
+-All Metrics by Outlet Type: Provide a summary view of key metrics by outlet type (e.g., grocery stores, supermarkets).
 
 # Dashboard
 ![Screenshot (168)](https://github.com/user-attachments/assets/d1342a02-c266-4900-badc-ee73756bc467)
