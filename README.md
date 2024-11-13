@@ -2,10 +2,10 @@
 This dashboard provides a comprehensive view of key metrics for Blinkit, India's last-minute app. It includes sales data, customer ratings, outlet information, and item-level analysis. It involved examining sales patterns over time, understanding customer satisfaction through ratings, and studying the characteristics of different outlet types. The analysis aimed to uncover key factors influencing sales performance, such as the outlet's size and location. 
 # Business requirements
 ## KPIs
-### Total Sales: Overall revenue generated.
-### Average Sales: Revenue per sale.
-### Number of Items: Total items sold.
-### Average Rating: Customer rating for items.
+ 1. Total Sales: Overall revenue generated.
+ 2. Average Sales: Revenue per sale.
+ 3. Number of Items: Total items sold.
+ 4. Average Rating: Customer rating for items.
 
 # Charts and Visualizations
 
