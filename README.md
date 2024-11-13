@@ -21,11 +21,12 @@ This dashboard provides a comprehensive view of key metrics for Blinkit, India's
 ![Screenshot (168)](https://github.com/user-attachments/assets/d1342a02-c266-4900-badc-ee73756bc467)
 
 # Findings
-Total Sales: $1.20M in revenue, with an average sale of $141 across 8,553 items, and an average customer rating of 3.9.
-Fat Content Analysis: Low-fat products were more popular than regular products.
-Top-Selling Item Types: Fruits, vegetables, and snack foods had the highest sales.
-Outlet Analysis:
-Location: Tier 3 locations generated the highest sales.
-Size: Medium-sized outlets outperformed small and large outlets in total sales.
-Customer Rating: The average rating was 3.9, indicating positive feedback from customers.
-Sales Trends by Year: 2018 saw the highest sales, while 2011 was lower, with other years showing average performance.
+1. Total Sales: $1.20M in revenue, with an average sale of $141 across 8,553 items, and an average customer rating of 3.9.
+2. Fat Content Analysis: Low-fat products were more popular than regular products.
+3. Top-Selling Item Types: Fruits, vegetables, and snack foods had the highest sales.
+   
+## Outlet Analysis
+1. Location: Tier 3 locations generated the highest sales.
+2. Size: Medium-sized outlets outperformed small and large outlets in total sales.
+3. Customer Rating: The average rating was 3.9, indicating positive feedback from customers.
+4. Sales Trends by Year: 2018 saw the highest sales, while 2011 was lower, with other years showing average performance.
