@@ -18,7 +18,8 @@ This dashboard provides a comprehensive view of key metrics for Blinkit, India's
 7. All Metrics by Outlet Type: Provide a summary view of key metrics by outlet type (e.g., grocery stores, supermarkets).
 
 # Dashboard
-![Screenshot (168)](https://github.com/user-attachments/assets/d1342a02-c266-4900-badc-ee73756bc467)
+![Screenshot (172)](https://github.com/user-attachments/assets/e4001ed9-1bec-49c9-89bf-5a6587704cb3)
+
 
 # Findings
 1. Total Sales: $1.20M in revenue, with an average sale of $141 across 8,553 items, and an average customer rating of 3.9.
